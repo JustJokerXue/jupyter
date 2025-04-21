@@ -1,5 +1,4 @@
 dependencies:
-  - python=3
-  - pip:
-  - matplotlib
-    
+  - python=3.10
+  - numpy >=1.21
+  
